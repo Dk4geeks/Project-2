@@ -1,0 +1,47 @@
+a {
+  text-decoration: none;
+
+}
+
+body {
+  background-color: #e4f9f5;
+}
+
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+}
+
+h1 {
+  color: #66BFBF;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+
+.circular{
+  border-radius: 100%;
+}
+
+.game{
+  height: 50px;
+  width: 10%
+}
+
+.size{
+  height: 100px;
+  width: 10%;
+}
+
+.dkimage{
+  height:250px;
+  border-color:#a6dcef;
+  border-radius: 5%;
+}
